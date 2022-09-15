@@ -1,1 +1,3 @@
-[![David's github stats](https://github-readme-stats.vercel.app/api?username=davidkadaria&show_icons=true&theme=dark)](https://twitter.com/DavidKadaria)
+## Other github profiles
+- [Q4D4](https://www.github.com/q4d4)
+- [DatNet13](https://www.github.com/DatNet13)
