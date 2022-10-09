@@ -3,4 +3,4 @@
 - [DatNet13](https://www.github.com/DatNet13)
 
 ## Translations by me
-View the list of my translations - [here](https://github.com/davidkadaria/davidkadaria/blob/main/TRANSLATIONS.md).
+View a list of my translations - [here](https://github.com/davidkadaria/davidkadaria/blob/main/TRANSLATIONS.md).
