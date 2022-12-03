@@ -1,5 +1,15 @@
 # Translations by David Kadaria
 
+## Style Guides
+
+- [Airbnb CSS / Sass Styleguide](https://github.com/davidkadaria/css-style-guide)
+- [Git Style Guide](https://github.com/davidkadaria/git-style-guide)
+
+## JavaScript Algorithms and Data Structures
+
+- [algorithms/math/factorial](https://github.com/trekhleb/javascript-algorithms/blob/master/src/algorithms/math/factorial/README.ka-GE.md)
+- [algorithms/math/fibonacci](https://github.com/trekhleb/javascript-algorithms/blob/master/src/algorithms/math/fibonacci/README.ka-GE.md)
+
 ## Nodejs.org
 
 - [site.json](https://github.com/nodejs/nodejs.org/blob/main/locale/ka/site.json)
@@ -14,11 +24,6 @@
 - [docs/guides/debugging-getting-started.md](https://github.com/nodejs/nodejs.org/blob/main/locale/ka/docs/guides/debugging-getting-started.md)
 - [download/index.md](https://github.com/nodejs/nodejs.org/blob/main/locale/ka/download/index.md)
 - [get-involved/index.md](https://github.com/nodejs/nodejs.org/blob/main/locale/ka/get-involved/index.md)
-
-## Style Guides
-
-- [Airbnb CSS / Sass Styleguide](https://github.com/davidkadaria/css-style-guide)
-- [Git Style Guide](https://github.com/davidkadaria/git-style-guide)
 
 ## Misc.
 
