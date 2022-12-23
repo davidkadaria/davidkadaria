@@ -4,3 +4,5 @@
 
 ## Translations
 View a list of my translations [here](https://github.com/davidkadaria/davidkadaria/blob/main/TRANSLATIONS.md).
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkadaria)](https://github.com/davidkadaria/)
