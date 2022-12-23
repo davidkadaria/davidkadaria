@@ -5,4 +5,4 @@
 ## Translations
 View a list of my translations [here](https://github.com/davidkadaria/davidkadaria/blob/main/TRANSLATIONS.md).
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=davidkadaria&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=davidkadaria&show_icons=true&theme=gotham)
