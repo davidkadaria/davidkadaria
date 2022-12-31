@@ -4,6 +4,7 @@
 
 - [Airbnb CSS / Sass Styleguide](https://github.com/davidkadaria/css-style-guide)
 - [Git Style Guide](https://github.com/davidkadaria/git-style-guide)
+- [Principles of writing consistent, idiomatic CSS](https://github.com/davidkadaria/idiomatic-css)
 
 ## JavaScript Algorithms and Data Structures
 
