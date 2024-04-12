@@ -7,24 +7,6 @@ Originally from the beautiful country of Georgia, I've been tinkering with digit
 
 I'm someone who loves to get creative and dive into projects headfirst. Whether it's designing a user-friendly interface or brainstorming ideas for a new project, I thrive on the excitement of turning concepts into reality. Beyond the digital world, I'm also passionate about using my skills to make a positive impact in the community.
 
-## Experience
-- **Full Stack Web Developer**  
-  Company: Orontes Capital  
-  Duration: May 2023 - April 2024
-
-- **Software Developer**  
-  Company: Cyber Security Group  
-  Duration: September 2021 - March 2022
-
-## Education
-- **Bachelor's degree, Computer Engineering**  
-  University: Ilia State University  
-  Duration: March 2023 - Present
-
-- **Bachelor's degree, Information Technology**  
-  University: BTU • Business and Technology University  
-  Duration: September 2020 - March 2023
-
 ## My Favorite Tools
 Here are some of the tools and technologies I love working with:
 
