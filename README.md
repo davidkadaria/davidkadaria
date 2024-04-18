@@ -19,7 +19,7 @@ Git | GitHub
 ### Backend:
 Node.js | Express.js | Python | Django | Django REST Framework | Flask
 
-### Scripting:
+### Web scraping:
 Selenium | Requests | BeautifulSoup
 
 ## Other GitHub Profiles
