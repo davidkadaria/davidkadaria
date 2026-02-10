@@ -17,7 +17,7 @@ HTML | CSS | Sass | JavaScript | TypeScript | Flow.js | React.js | Next.js | Gat
 Git | GitHub
 
 ### Backend:
-Node.js | Express.js | Python | Django | Django REST Framework | Flask
+Node.js | Express.js | Python | Django | Django REST Framework | Flask | PHP | Laravel
 
 ### Web scraping:
 Selenium | Requests | BeautifulSoup
